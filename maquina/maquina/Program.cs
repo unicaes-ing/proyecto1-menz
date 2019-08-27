@@ -91,7 +91,7 @@ namespace maquina
                         Console.Clear();
                         esma.estilo();
                         Console.SetCursorPosition(9, 7);
-                        Console.WriteLine("Ninguna de las opciones Ingresadas es correcta");
+                        Console.WriteLine("Ninguna de las opciones es correcta");
                         Console.SetCursorPosition(9, 9);
                         Console.WriteLine("Elija entre:");
                         Console.SetCursorPosition(9, 11);

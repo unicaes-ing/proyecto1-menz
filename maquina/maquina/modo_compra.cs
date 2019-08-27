@@ -350,8 +350,11 @@ namespace maquina
             diemaqui = totaldinero + baninterno;
             Console.SetCursorPosition(9,15);
             Console.WriteLine("Total dinero en maquina: " + diemaqui.ToString("C2"));
+            
             Console.SetCursorPosition(9, 16);
             Console.ReadKey();
+            Console.Clear();
+            esma.estilo();
 
         }
         #endregion
@@ -363,6 +366,7 @@ namespace maquina
             int op;
             do
             {
+               
                 Console.SetCursorPosition(9,6);
                 Console.WriteLine("1-)Retirar dinero ");
                 Console.SetCursorPosition(9, 7);
@@ -375,7 +379,7 @@ namespace maquina
                 {
                     case 1:
                     pedirdenuevo:
-                        Console.WriteLine("Ingrrese cantidad a retirar");
+                        Console.WriteLine("Ingrese cantidad a retirar");
                         retiro = Convert.ToDecimal(Console.ReadLine());
                         if (retiro > baninterno)
                         {
@@ -408,7 +412,6 @@ namespace maquina
                         {
                             Console.Clear();
                             esma.estilo();
-
 
                             can_mone_10 = 0;
                             can_mone_05 = 0;
@@ -604,6 +607,10 @@ namespace maquina
                         Console.WriteLine("Agua");
                         Console.SetCursorPosition(9, 14);
                         agua = Convert.ToInt32(Console.ReadLine());
+                        total_bebida = cocacola + Mnaranja + Muva + pepsi + agua +
+                            petit +
+                            delvalle +
+                            coca0;
                         if (total_bebida > 100)
                         {
                             Console.Clear();
