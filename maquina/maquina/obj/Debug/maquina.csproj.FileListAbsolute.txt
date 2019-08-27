@@ -1,0 +1,7 @@
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\maquina\maquina\bin\Debug\maquina.exe.config
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\maquina\maquina\bin\Debug\maquina.exe
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\maquina\maquina\bin\Debug\maquina.pdb
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\maquina\maquina\obj\Debug\maquina.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\maquina\maquina\obj\Debug\maquina.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\maquina\maquina\obj\Debug\maquina.exe
+C:\Users\nesto\OneDrive\Escritorio\Proyecto\maquina\maquina\obj\Debug\maquina.pdb
